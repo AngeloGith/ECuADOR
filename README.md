@@ -188,3 +188,5 @@ If you use ECuADOR in your research, please cite the original work:
 ---
 
 *© 2025 Biodiversity Genomics Team — Angelo*
+
+**Contact:** armijoscarr@mun.ca
